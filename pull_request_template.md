@@ -4,7 +4,6 @@
 Please review the [contributing guidelines](https://github.com/Catrobat/Catroid/blob/develop/README.md) and [wiki pages](https://github.com/Catrobat/Catroid/wiki/) of this repository.
 
 - [ ] Include the name of the Jira ticket in the PR’s title (i.e. CATROID-XXX Title of your PR)
-- [ ] Optionally, include a summary of the changes plus the relevant context
 - [ ] Choose the proper base branch (*develop*)
 - [ ] Confirm that the changes follow the project’s coding guidelines
 - [ ] Verify that the changes generate no compiler or linter warnings
